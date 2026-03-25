@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">⚡I believe web technologies have the power to create connections; they could be between people, machines, or systems. The limits of the connection and the complexity of its framework lies solely within the limits of the imagination and abilities of the developers. I am fascinated by these possibilities. Therefore, I walk the road of full stack development with a focus on first Backend, DevOps, and then Front End. I specialize in the Javascript eco-system because I am in love with its versatility and open-source modular composition through npm.⚡</p>
+<p align="left">⚡I believe web technologies have the power to create connections; they could be between people, machines, or systems. The limits of the connection and the complexity of its framework lies solely within the limits of the imagination and abilities of the developers. I am fascinated by the possibilities. Therefore, I walk the road of full stack development with a focus on first Backend, DevOps, and then Front End. I specialize in the Javascript eco-system because I am in love with its versatility and open-source modular composition through npm.⚡</p>
 
 ###
 
