@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">Node js<br>Express<br>Restful API<br>Authentification/Authorization</p>
+<p align="center">Node js<br>Express<br>Restful API<br>Authentification/Authorization</p>
 <br>
 <hr>
 
@@ -48,9 +48,9 @@
 
 <h3 align="center">DevOPs</h3>
 <hr>
-###
 
-<p align="left">Git/Github<br>Docker<br>Kubernetes<br>Nginx<br>VPS Hosting</p>
+
+<p align="center">Git/Github<br>Docker<br>Kubernetes<br>Nginx<br>VPS Hosting</p>
 <br>
 <hr>
 
@@ -58,9 +58,8 @@
 <h3 align="center">Front End</h3>
 <hr>
 
-###
 
-<p align="left">React<br>Html5<br>CSS3<br>Bootstrap<br>Figma</p>
+<p align="center">React<br>Html5<br>CSS3<br>Bootstrap<br>Figma</p>
 <br>
 <hr>
 
