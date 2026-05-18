@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">⚡I believe web technologies have the power to create connections; they could be between people, machines, or systems. The limits of the connection and the complexity of its framework lies solely within the limits of the imagination and abilities of the developers. I am fascinated by the possibilities. Therefore, I walk the road of full stack development with a focus on first Backend, DevOps, and then Front End. I specialize in the Javascript eco-system because I am in love with its versatility and open-source modular composition through npm.⚡</p>
+<p align="left">⚡I believe web technologies have the power to create connections, between people, machines, or systems. The limits of the connection and the complexity of its framework lies solely within the limits of the imagination and abilities of the developers. I am fascinated by the possibilities. Therefore, I walk the road of full stack development with a focus on Backend, DevOps, and then Front End. I specialize in the Javascript eco-system because I am in love with its versatility and open-source modular composition through npm.⚡</p>
 
 ###
 
@@ -24,6 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
@@ -48,7 +50,7 @@
 <hr>
 ###
 
-<p align="left">Git/Github<br>Docker<br>Kubernete<br>Nginx<br>VPS Hosting</p>
+<p align="left">Git/Github<br>Docker<br>Kubernetes<br>Nginx<br>VPS Hosting</p>
 <br>
 <hr>
 
