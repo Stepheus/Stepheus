@@ -62,7 +62,8 @@
 <p align="center">React<br>Html5<br>CSS3<br>Bootstrap<br>Figma</p>
 <br>
 <hr>
-
+<h3 align="center">Projects</h3>
+<hr>
 
 <h2 align="left">Contacts</h2>
 
