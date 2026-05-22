@@ -64,7 +64,9 @@
 <hr>
 <h3 align="center">Projects</h3>
 <hr>
+<br>
 
+<hr>
 <h2 align="left">Contacts</h2>
 
 ###
