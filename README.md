@@ -40,7 +40,7 @@
 
 ###
 
-<p align="center">Node js<br>Express<br>Restful API<br>Authentification/Authorization<br>Server Side Rendering<br><br>Database<br>MongoDB </p>
+<p align="center">Node js<br>Express<br>Restful API<br>Authentification/Authorization<br>Server Side Rendering<br><br>Databases<br>MongoDB </p>
 <br>
 <hr>
 
