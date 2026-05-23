@@ -40,7 +40,7 @@
 
 ###
 
-<p align="center">Node js<br>Express<br>Restful API<br>Authentification/Authorization</p>
+<p align="center">Node js<br>Express<br>Restful API<br>Authentification/Authorization<br>Server Side Rendering </p>
 <br>
 <hr>
 
@@ -50,7 +50,7 @@
 <hr>
 
 
-<p align="center">Git/Github<br>Docker<br>Kubernetes<br>Nginx<br>VPS Hosting</p>
+<p align="center">Source Control<br>Agile Methology<br>Containerization<br>Container Ochestration<br>Cloud Infrastructure<br>CI/CD</p>
 <br>
 <hr>
 
