@@ -34,17 +34,23 @@
 <hr>
 
 ###
+<h3 align="center">Front End</h3>
+<hr>
+<p align="center">React<br>Html5<br>CSS3<br>Bootstrap<br>Figma</p>
+<br>
+<hr>
 
 <h3 align="center">Backend</h3>
 <hr>
 
 ###
-
 <p align="center">Node js<br>Express<br>Restful API<br>Authentification/Authorization<br>Server Side Rendering<br><br>Databases<br>MongoDB </p>
 <br>
 <hr>
 
 ###
+
+
 
 <h3 align="center">DevOPs</h3>
 <hr>
@@ -54,18 +60,10 @@
 <br>
 <hr>
 
-
-<h3 align="center">Front End</h3>
-<hr>
-
-
-<p align="center">React<br>Html5<br>CSS3<br>Bootstrap<br>Figma</p>
-<br>
-<hr>
 <h3 align="center">Projects</h3>
 <hr>
-<br>
 
+<br>
 <hr>
 <h2 align="left">Contacts</h2>
 
