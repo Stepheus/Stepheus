@@ -44,7 +44,7 @@
 <hr>
 
 ###
-<p align="center">Node js<br>Express<br>Restful API<br>Authentification/Authorization<br>Server Side Rendering<br><br>Databases<br>MongoDB </p>
+<p align="center">Node js<br>Express<br>Restful API<br>Authentification/Authorization<br>Server Side Rendering<br>Ejs<br><br>Databases<br>MongoDB </p>
 <br>
 <hr>
 
@@ -56,7 +56,7 @@
 <hr>
 
 
-<p align="center">Source Control<br>Agile Methology<br>Containerization<br>Container Ochestration<br>Cloud Infrastructure<br>CI/CD</p>
+<p align="center">Source Control<br>Git<br>Agile Methology<br><br>Cloud Development<br>Containerization<br>Docker<br>Container Ochestration<br>Kubernetes<br>CI/CD<br><br>Automation</p>
 <br>
 <hr>
 
