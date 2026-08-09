@@ -36,7 +36,7 @@
 ###
 <h3 align="center">Front End</h3>
 <hr>
-<p align="center">React<br>Html5<br>CSS3<br>Bootstrap<br>Figma</p>
+<p align="center">React<br>Bootstrap<br>Javascript<br>CSS3<br>HTML5<br>Figma<br>Principle of Design</p>
 <br>
 <hr>
 
