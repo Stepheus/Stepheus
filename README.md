@@ -56,11 +56,15 @@
 <hr>
 
 
-<p align="center">Source Control<br>Git<br>Agile Methology<br><br>Cloud Development<br>Containerization<br>Docker<br>Container Ochestration<br>Kubernetes<br>CI/CD<br><br>Automation</p>
+<p align="center">Source Control<br>Git<br>Agile Methology<br><br>Cloud Development<br>Containerization<br>Docker<br>Container Ochestration<br>Kubernetes<br>CI/CD<br><br>Automation
 <br>
-<br>security
+<br>DevSecOps
+<br>Vulnerability Modelling<br>
+Static Security Analysis<br>
+Vulnerability Monitoring<br>
 <br>Logging &
 Monitoring<br>
+</p>
 <hr>
 
 <h3 align="center">Projects</h3>
