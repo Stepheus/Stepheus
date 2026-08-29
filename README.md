@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">⚡I believe web technologies have the power to create connections. These connections could be between people, between tools, or between systems. In fact, the limits of the what and how lie solely within the imagination and abilities of those building these connections. I am fascinated by the possibilities. I, therefore, walk the road of fullstack development with experience on FrontEnd, BackEnd, and cloud DevOps. I specialize in the Javascript eco-system for its versatility, open-source nature, and future applications.⚡</p>
+<p align="left">⚡I believe web technologies have the power to create connections. These connections could be between people, between tools, or between systems. In fact, the limits of the what and how lie solely within the imagination and abilities of those building these connections. I am fascinated by the possibilities. I, therefore, walk the road of fullstack development with experience on FrontEnd, BackEnd, and DevOps/cloud infrastructure. I specialize in the Javascript eco-system for its versatility, open-source nature, and future applications.⚡</p>
 
 ###
 
