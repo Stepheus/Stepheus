@@ -1,4 +1,4 @@
-<h1 align="left">Hey ✌🏾 I'm Kofy</h1>
+<h1 align="left">Hey ✌🏾 I'm Kofi</h1>
 
 ###
 
