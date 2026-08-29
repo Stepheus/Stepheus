@@ -58,6 +58,9 @@
 
 <p align="center">Source Control<br>Git<br>Agile Methology<br><br>Cloud Development<br>Containerization<br>Docker<br>Container Ochestration<br>Kubernetes<br>CI/CD<br><br>Automation</p>
 <br>
+<br>security
+<br>Logging &
+Monitoring<br>
 <hr>
 
 <h3 align="center">Projects</h3>
